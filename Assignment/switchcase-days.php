@@ -87,14 +87,14 @@
 
 
 
-$p=20;
-$q=30;
-$r="+";
-switch($r){
-    case "+":
-        print($p+$q);
-        break;
-}
+// $p=20;
+// $q=30;
+// $r="+";
+// switch($r){
+//     case "+":
+//         print($p+$q);
+//         break;
+// }
 
 
 

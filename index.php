@@ -16,6 +16,10 @@
         </li>
 
         <li>
+            <a href="./function.php">Function</a>
+        </li>
+
+        <li>
             <ul>
                 <h1>Assignment</h1>
                 <li>
@@ -25,8 +29,34 @@
                 <li>
                     <a href="./Assignment/stritctcomparison.php">Comparison</a>
                 </li>
+                <li>
+                    <a href="./Assignment/comparethreenumber.php">Compare three number</a>
+                </li>
+                <li>
+                    <a href="./Assignment/oddeven.php">Odd Even</a>
+                </li>
+                <li>
+                    <a href="./Assignment/loop.php">Table</a>
+                </li>
             </ul>
         </li>
+
+
+        <li>
+            <ul>
+                <h1>Oops</h1>
+                <li>
+                  <a href="./oops/main.php">class</a>  
+                </li>
+
+                <li>
+                    <a href="./oops/factorial.php">Factor</a>
+                </li>
+                
+            </ul>
+        </li>
+
+
     </ul>
 </body>
 </html>

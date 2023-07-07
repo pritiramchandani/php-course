@@ -9,4 +9,8 @@
 //Other assignment operator
 // ? :
 
+// Arthmetic operator
+// +,-,*,/,**
 
+// Comparison Operator
+// ==,===, <= , >=, >, < ,!=
