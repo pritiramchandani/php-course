@@ -52,6 +52,15 @@
                 <li>
                     <a href="./oops/factorial.php">Factor</a>
                 </li>
+                <li>
+                    <a href="./oops/constructor.php">Contructor</a>
+                </li>
+                <li>
+                    <a href="./oops/destructor.php">Destructor</a>
+                </li>
+                <li>
+                    <a href="./oops/Access-Modifier.php">Access Modifier</a>
+                </li>
                 
             </ul>
         </li>
